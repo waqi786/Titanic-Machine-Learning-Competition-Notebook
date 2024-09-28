@@ -51,7 +51,7 @@ This notebook provides a comprehensive approach to solving the Titanic Machine L
 7. Seaborn
 
 
-**Dataset**
+**Dataset:**
 
 The dataset consists of passenger information from the Titanic, including features such as age, sex, ticket class, and survival status. It is used to train models to predict the likelihood of survival.
 
