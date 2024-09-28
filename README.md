@@ -67,6 +67,6 @@ The dataset consists of passenger information from the Titanic, including featur
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-**Author**
+**Author:**
 
 Waqar Ali
