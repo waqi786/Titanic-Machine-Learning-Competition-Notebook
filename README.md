@@ -13,7 +13,7 @@ This notebook provides a comprehensive approach to solving the Titanic Machine L
 4. Evaluation: Assessment of model performance using metrics such as accuracy, precision, recall, and F1-score.
 
 
-**Installation and Usage**
+**Installation and Usage:**
 
 1. Clone the repository:
 
