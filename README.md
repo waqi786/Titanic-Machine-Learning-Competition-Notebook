@@ -40,7 +40,7 @@ This notebook provides a comprehensive approach to solving the Titanic Machine L
 
 
 
-**Dependencies**
+**Dependencies:**
 
 1. Python 3.x
 2. Jupyter Notebook
