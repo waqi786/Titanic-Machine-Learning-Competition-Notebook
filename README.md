@@ -62,7 +62,7 @@ The dataset consists of passenger information from the Titanic, including featur
 **Uploaded Date:** 9/8/2024
 
 
-**License**
+**License:**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
