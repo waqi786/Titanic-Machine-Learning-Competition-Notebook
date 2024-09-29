@@ -1,6 +1,6 @@
 # Titanic-Machine-Learning-Competition-Notebook
 
-**Overview:**
+**Overview**
 
 This notebook provides a comprehensive approach to solving the Titanic Machine Learning competition on Kaggle. It includes data exploration, feature engineering, model building, and evaluation strategies to predict passenger survival. The goal is to utilize machine learning techniques to achieve high accuracy in predicting survival outcomes based on historical data.
 
