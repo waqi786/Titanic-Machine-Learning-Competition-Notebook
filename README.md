@@ -1,4 +1,4 @@
-# Titanic-Machine-Learning-Competition-Notebook
+# Titanic Machine Learning Competition Notebook
 
 **Overview**
 
